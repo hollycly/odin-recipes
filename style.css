@@ -7,3 +7,11 @@ ul {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
     color: darkgoldenrod;
 }
+
+body {
+    background-color: floralwhite;
+}
+
+a {
+    color: darkgoldenrod; 
+}
